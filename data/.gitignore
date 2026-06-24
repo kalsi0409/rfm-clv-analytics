@@ -1,0 +1,5 @@
+.virtualenvs/
+venv/
+.env
+__pycache__/
+.streamlit/config.toml
